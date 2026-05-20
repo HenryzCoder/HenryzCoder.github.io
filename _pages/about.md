@@ -26,6 +26,7 @@ Zhao has published more than 30 papers at top-tier international journals and co
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Delivered a keynote at the **ICSS 2026** Top Journal/Conference Forum (Macau) on multimodal-enabled software service reliability. Also served as a panel guest at **CCF Distinguished Lectures** at the School of Software Engineering, Sun Yat-sen University (Zhuhai Campus), discussing how to improve research quality in the era of AI-driven automated research.
 - *2025.09*: &nbsp;🎉🎉 Awarded **CCF Outstanding Doctoral Dissertation** by the CCF Service Computing Technical Committee.
 - *2025.07*: &nbsp;🎉🎉 Guided students to win the **National First Prize** in the 19th "Challenge Cup" National College Student Extracurricular Academic Science and Technology Works Competition (AI+ Special Track).
 - *2025.07*: &nbsp;🎉🎉 Guided students to win the **Provincial Gold Award** and **National Bronze Award** in the China International College Student Innovation Competition (Internet+).
@@ -146,7 +147,8 @@ Zhao has published more than 30 papers at top-tier international journals and co
 
 
 # 💬 Invited Talks
-- *2026.05*, Multimodal Learning for Intelligent Reliability Management in Cloud Native Systems. ICSS 2026, Macau, China.
+- *2026.05*, Multimodal-Enabled Software Service Reliability. ICSS 2026 Top Journal/Conference Forum, Macau, China.
+- *2026.05*, Panel Guest: "Improving Research Quality in the Era of AI-Driven Automated Research". CCF Distinguished Lectures, School of Software Engineering, Sun Yat-sen University (Zhuhai Campus), China.
 - *2023.11*, A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing. ICSOC 2023, Roma, Italy. 
 - *2023.06*, A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling. ICWS 2023, Chicago, USA  \| [\[video\]](https://github.com/)
 
