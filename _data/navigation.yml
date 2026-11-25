@@ -1,25 +1,40 @@
-# main links links
-main:
+# Navigation links, per language (`page.lang`).
+home:
+  en: "Homepage"
+  zh: "主页"
+
+en:
   - title: "About Me"
     url: "/#about-me"
-
   - title: "News"
     url: "/#-news"
-
   - title: "Publications"
     url: "/#-publications"
-
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
   - title: "Projects"
     url: "/#-research-projects"
-
   - title: "Educations"
     url: "/#-educations"
-
   - title: "Talks"
     url: "/#-invited-talks"
-
   - title: "Industrialization"
     url: "/#-industrialization"
+
+zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
+  - title: "新闻"
+    url: "/zh/#news"
+  - title: "论文发表"
+    url: "/zh/#publications"
+  - title: "荣誉奖励"
+    url: "/zh/#honors-and-awards"
+  - title: "科研项目"
+    url: "/zh/#research-projects"
+  - title: "教育经历"
+    url: "/zh/#educations"
+  - title: "特邀报告"
+    url: "/zh/#invited-talks"
+  - title: "产业化"
+    url: "/zh/#industrialization"

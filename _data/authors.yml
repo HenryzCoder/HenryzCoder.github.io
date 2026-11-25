@@ -1,0 +1,32 @@
+# Author profiles used by the sidebar (selected via `author:` in page frontmatter).
+zhao_en:
+  name             : "Yuqi Zhao"
+  avatar           : "images/avatar.jpg"
+  bio              : "Central China Normal University / Wuhan University"
+  location         : "Wuhan, China"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=qfstZDsAAAAJ"
+  email            : "yuqizhao@whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Henry_Zhao5"
+  uri              :
+  github           : "HenryzCoder"
+  google_plus      : "zhaoyuqi54"
+  dblp             : "https://dblp.org/pid/123/8368-1.html"
+  orcid            : "https://orcid.org/0000-0002-2642-5109"
+
+zhao_zh:
+  name             : "赵玉琦"
+  avatar           : "images/avatar.jpg"
+  bio              : "华中师范大学 / 武汉大学"
+  location         : "中国 · 武汉"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=qfstZDsAAAAJ"
+  email            : "yuqizhao@whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Henry_Zhao5"
+  uri              :
+  github           : "HenryzCoder"
+  google_plus      : "zhaoyuqi54"
+  dblp             : "https://dblp.org/pid/123/8368-1.html"
+  orcid            : "https://orcid.org/0000-0002-2642-5109"

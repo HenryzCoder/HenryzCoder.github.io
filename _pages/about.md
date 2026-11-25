@@ -3,6 +3,8 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+author: zhao_en
+lang: en
 redirect_from: 
   - /about/
   - /about.html
