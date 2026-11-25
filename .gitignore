@@ -1,3 +1,5 @@
 _site/
 push.sh
 .DS_Store
+# 个人简历等隐私文件，勿上传到公开仓库
+*.docx

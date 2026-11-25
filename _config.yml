@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuqi Zhao"
 description              : "Stay Hungry! Stay Foolish!"
-repository               : "henryzhao/henryzhao.github.io"
+repository               : "HenryzCoder/HenryzCoder.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :    "henryzhao"
+  github           :    "HenryzCoder"
   google_plus      :    "zhaoyuqi54"
   keybase          :
   instagram        :
